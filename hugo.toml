@@ -1,0 +1,8 @@
+baseURL = 'https://fourcels.github.io/'
+languageCode = 'en-us'
+title = "Kiyan's Blog"
+
+theme = "github.com/theNewDynamic/gohugo-theme-ananke"
+
+[params]
+favicon = "/favicon.png"
