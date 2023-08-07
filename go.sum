@@ -1,2 +1,4 @@
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 h1:iPc5eu4EV8YZEOh1WsTqLcQmqj96TbqI+BGpBD4a5lo=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/Mitrichius/hugo-theme-anubis v0.0.0-20230803171046-7aefd3b3148d h1:zsSzLkDj1pWrJSQfeSo84jelf59XHMOG1xZq2dyd8is=
+github.com/Mitrichius/hugo-theme-anubis v0.0.0-20230803171046-7aefd3b3148d/go.mod h1:FKD3NbdsQzL+cXsC3x99XD/t/Rd5EyhDlNBAxQhULbo=
+github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0 h1:Bj/rhvEOix4TXwbzlZttiIi+5fTOqT3aQs1zMsprIXQ=
+github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
