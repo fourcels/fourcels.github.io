@@ -1,7 +1,7 @@
 baseURL = 'https://fourcels.github.io/'
 languageCode = 'en-us'
 title = "Kiyan's Blog"
-theme = "github.com/Mitrichius/hugo-theme-anubis"
+theme = "anubis"
 
 [params]
 style = "dark-without-switcher"
