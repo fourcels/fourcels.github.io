@@ -8,7 +8,7 @@ tags: [drone, ci, docker]
 使用 [Drone](https://github.com/harness/drone) 可以简化项目发布流程,
 经过一段时间的使用和摸索, 这里分享几个加速 `Drone` 发布流程的方法.
 
-<!-- more -->
+<!--more-->
 
 ### 镜像拉取设置
 
